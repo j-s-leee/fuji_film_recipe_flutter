@@ -19,7 +19,7 @@ class AppView extends StatelessWidget {
       ),
       localizationsDelegates: AppLocalizations.localizationsDelegates,
       supportedLocales: AppLocalizations.supportedLocales,
-      home: SafeArea(child: Scaffold(body: Text(getIt<AppFlavor>().getEnv(Env.iOSClientId)),
+      home: SafeArea(child: Scaffold(body: Text('initial commit'),
       ),
       ),
     );
