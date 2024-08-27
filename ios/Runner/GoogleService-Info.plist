@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>977169289014-d8u9ikq5lt6ib6glvqepjisareouasmj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.977169289014-d8u9ikq5lt6ib6glvqepjisareouasmj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAYt8ZnO1fmtAueXGMNk9SlBl7dSpLEsQ0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>977169289014</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.babayo.fujiFilmRecipe.dev</string>
+	<key>PROJECT_ID</key>
+	<string>fuji-film-recipe-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fuji-film-recipe-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:977169289014:ios:082eecfc43be2bacd52d97</string>
+</dict>
+</plist>

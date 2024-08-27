@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "977169289014",
+    "project_id": "fuji-film-recipe-dev",
+    "storage_bucket": "fuji-film-recipe-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977169289014:android:9f084b0cd7556ba6d52d97",
+        "android_client_info": {
+          "package_name": "com.babayo.fuji_film_recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977169289014-oumlbb5349icravqp029j7vhdosa87nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNnn__v7ImIm1GgR-leAhXvRokb_TcI08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977169289014-oumlbb5349icravqp029j7vhdosa87nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977169289014:android:e22de9e19d55b347d52d97",
+        "android_client_info": {
+          "package_name": "com.babayo.fuji_film_recipe.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977169289014-oumlbb5349icravqp029j7vhdosa87nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNnn__v7ImIm1GgR-leAhXvRokb_TcI08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977169289014-oumlbb5349icravqp029j7vhdosa87nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

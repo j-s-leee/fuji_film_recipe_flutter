@@ -1,0 +1,170 @@
+{
+  "project_info": {
+    "project_number": "933756247137",
+    "project_id": "fujipeople-film-recipe",
+    "storage_bucket": "fujipeople-film-recipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933756247137:android:3f2f71992881a1d72a1e20",
+        "android_client_info": {
+          "package_name": "com.babayo.fuji_film_recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933756247137-fq8klugv7j53lgtgau44c1lji8el536u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2XuOLXoKkOWteOR48Ta-xPCb32_zgCgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933756247137-fq8klugv7j53lgtgau44c1lji8el536u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933756247137-32gimhl2nj6sot1274gn7hdeo1hk49bf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fujipeopleFilmRecipes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933756247137:android:ffd5eab7897661d42a1e20",
+        "android_client_info": {
+          "package_name": "com.example.fujipeopleFilm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933756247137-fq8klugv7j53lgtgau44c1lji8el536u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2XuOLXoKkOWteOR48Ta-xPCb32_zgCgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933756247137-fq8klugv7j53lgtgau44c1lji8el536u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933756247137-32gimhl2nj6sot1274gn7hdeo1hk49bf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fujipeopleFilmRecipes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933756247137:android:e9f1604a70954c432a1e20",
+        "android_client_info": {
+          "package_name": "com.example.fujipeopleFilmRecipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933756247137-t28jum8ufmjqofr30e09jbp6eejkib88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fujipeopleFilmRecipes",
+            "certificate_hash": "e560322b5c8216c6e009d6ab200ddc48dfd3ffb4"
+          }
+        },
+        {
+          "client_id": "933756247137-fq8klugv7j53lgtgau44c1lji8el536u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2XuOLXoKkOWteOR48Ta-xPCb32_zgCgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933756247137-fq8klugv7j53lgtgau44c1lji8el536u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933756247137-32gimhl2nj6sot1274gn7hdeo1hk49bf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fujipeopleFilmRecipes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933756247137:android:d5bba239664206042a1e20",
+        "android_client_info": {
+          "package_name": "com.example.fujipeople_film_recipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933756247137-ugiggqouvgmk2qs098bj0clunvhff3je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fujipeople_film_recipes",
+            "certificate_hash": "e560322b5c8216c6e009d6ab200ddc48dfd3ffb4"
+          }
+        },
+        {
+          "client_id": "933756247137-fq8klugv7j53lgtgau44c1lji8el536u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2XuOLXoKkOWteOR48Ta-xPCb32_zgCgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933756247137-fq8klugv7j53lgtgau44c1lji8el536u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933756247137-32gimhl2nj6sot1274gn7hdeo1hk49bf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fujipeopleFilmRecipes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
