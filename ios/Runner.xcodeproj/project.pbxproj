@@ -230,6 +230,7 @@
 				9705A1C41CF9048500538489 /* Embed Frameworks */,
 				3B06AD1E1E4923F5004D2608 /* Thin Binary */,
 				E6FE79AF330E34AB55955C9A /* [CP] Embed Pods Frameworks */,
+				9E90A24F19E53DD50094D013 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -354,6 +355,23 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "/bin/sh \"$FLUTTER_ROOT/packages/flutter_tools/bin/xcode_backend.sh\" build";
+		};
+		9E90A24F19E53DD50094D013 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources.sh\"\n";
+			showEnvVarsInLog = 0;
 		};
 		C102779C7D585549EC9096FB /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -528,6 +546,7 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				ENABLE_BITCODE = NO;
 				FLAVOR_APP_NAME = "Fuji Film Recipe";
+				GOOGLE_INFO_URL = "com.googleusercontent.apps.933756247137-3lscjhue70g18m93mfno8pcv3ofaonrl";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -538,7 +557,6 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				GOOGLE_INFO_URL = com.googleusercontent.apps.933756247137-3lscjhue70g18m93mfno8pcv3ofaonrl;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -625,6 +643,7 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				ENABLE_BITCODE = NO;
 				FLAVOR_APP_NAME = "Fuji Film Recipe";
+				GOOGLE_INFO_URL = "com.googleusercontent.apps.933756247137-3lscjhue70g18m93mfno8pcv3ofaonrl";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -634,7 +653,6 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.babayo.fujiFilmRecipe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
-				GOOGLE_INFO_URL = com.googleusercontent.apps.933756247137-3lscjhue70g18m93mfno8pcv3ofaonrl;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -717,6 +735,7 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				ENABLE_BITCODE = NO;
 				FLAVOR_APP_NAME = "Fuji Film Recipe";
+				GOOGLE_INFO_URL = "com.googleusercontent.apps.933756247137-3lscjhue70g18m93mfno8pcv3ofaonrl";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -726,7 +745,6 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.babayo.fujiFilmRecipe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
-				GOOGLE_INFO_URL = com.googleusercontent.apps.933756247137-3lscjhue70g18m93mfno8pcv3ofaonrl;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -814,6 +832,7 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				ENABLE_BITCODE = NO;
 				FLAVOR_APP_NAME = "[DEV] Fuji Film Recipe";
+				GOOGLE_INFO_URL = "com.googleusercontent.apps.977169289014-d8u9ikq5lt6ib6glvqepjisareouasmj";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -824,7 +843,6 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				GOOGLE_INFO_URL = com.googleusercontent.apps.977169289014-d8u9ikq5lt6ib6glvqepjisareouasmj;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -910,6 +928,7 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				ENABLE_BITCODE = NO;
 				FLAVOR_APP_NAME = "[DEV] Fuji Film Recipe";
+				GOOGLE_INFO_URL = "com.googleusercontent.apps.977169289014-d8u9ikq5lt6ib6glvqepjisareouasmj";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -919,7 +938,6 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.babayo.fujiFilmRecipe.dev;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
-				GOOGLE_INFO_URL = com.googleusercontent.apps.977169289014-d8u9ikq5lt6ib6glvqepjisareouasmj;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1004,6 +1022,7 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				ENABLE_BITCODE = NO;
 				FLAVOR_APP_NAME = "[DEV] Fuji Film Recipe";
+				GOOGLE_INFO_URL = "com.googleusercontent.apps.977169289014-d8u9ikq5lt6ib6glvqepjisareouasmj";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1013,7 +1032,6 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.babayo.fujiFilmRecipe.dev;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
-				GOOGLE_INFO_URL = com.googleusercontent.apps.977169289014-d8u9ikq5lt6ib6glvqepjisareouasmj;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1101,6 +1119,7 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				ENABLE_BITCODE = NO;
 				FLAVOR_APP_NAME = "[STG] Fuji Film Recipe";
+				GOOGLE_INFO_URL = "com.googleusercontent.apps.977169289014-d8u9ikq5lt6ib6glvqepjisareouasmj";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1111,7 +1130,6 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				GOOGLE_INFO_URL = com.googleusercontent.apps.977169289014-d8u9ikq5lt6ib6glvqepjisareouasmj;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1198,6 +1216,7 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				ENABLE_BITCODE = NO;
 				FLAVOR_APP_NAME = "[STG] Fuji Film Recipe";
+				GOOGLE_INFO_URL = "com.googleusercontent.apps.977169289014-d8u9ikq5lt6ib6glvqepjisareouasmj";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1207,7 +1226,6 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.babayo.fujiFilmRecipe.stg;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
-				GOOGLE_INFO_URL = com.googleusercontent.apps.977169289014-d8u9ikq5lt6ib6glvqepjisareouasmj;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1290,6 +1308,7 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				ENABLE_BITCODE = NO;
 				FLAVOR_APP_NAME = "[STG] Fuji Film Recipe";
+				GOOGLE_INFO_URL = "com.googleusercontent.apps.977169289014-d8u9ikq5lt6ib6glvqepjisareouasmj";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1299,7 +1318,6 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.babayo.fujiFilmRecipe.stg;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
-				GOOGLE_INFO_URL = com.googleusercontent.apps.977169289014-d8u9ikq5lt6ib6glvqepjisareouasmj;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};

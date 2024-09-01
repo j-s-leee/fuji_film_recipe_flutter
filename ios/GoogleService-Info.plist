@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>933756247137-3lscjhue70g18m93mfno8pcv3ofaonrl.apps.googleusercontent.com</string>
+	<string>977169289014-d8u9ikq5lt6ib6glvqepjisareouasmj.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.933756247137-3lscjhue70g18m93mfno8pcv3ofaonrl</string>
-	<key>ANDROID_CLIENT_ID</key>
-	<string>933756247137-t28jum8ufmjqofr30e09jbp6eejkib88.apps.googleusercontent.com</string>
+	<string>com.googleusercontent.apps.977169289014-d8u9ikq5lt6ib6glvqepjisareouasmj</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDphi25K3FC51zCWM-saFdV3vKSYXeGVqg</string>
+	<string>AIzaSyAYt8ZnO1fmtAueXGMNk9SlBl7dSpLEsQ0</string>
 	<key>GCM_SENDER_ID</key>
-	<string>933756247137</string>
+	<string>977169289014</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.babayo.fujiFilmRecipe</string>
+	<string>com.babayo.fujiFilmRecipe.dev</string>
 	<key>PROJECT_ID</key>
-	<string>fujipeople-film-recipe</string>
+	<string>fuji-film-recipe-dev</string>
 	<key>STORAGE_BUCKET</key>
-	<string>fujipeople-film-recipe.appspot.com</string>
+	<string>fuji-film-recipe-dev.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:933756247137:ios:b8bc3a7dc4d92d682a1e20</string>
+	<string>1:977169289014:ios:082eecfc43be2bacd52d97</string>
 </dict>
 </plist>

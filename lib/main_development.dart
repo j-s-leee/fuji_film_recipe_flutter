@@ -6,7 +6,13 @@ import 'package:shared/shared.dart';
 
 void main() {
   const apiRepository = ApiRepository();
-  bootstrap(() {return const App(apiRepository: apiRepository);},
-      appFlavor: AppFlavor.development(),
-      options: DefaultFirebaseOptions.currentPlatform);
+  bootstrap(
+    (supabaseRepository) {
+      return const App(
+        apiRepository: apiRepository,
+      );
+    },
+    appFlavor: AppFlavor.development(),
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
 }
