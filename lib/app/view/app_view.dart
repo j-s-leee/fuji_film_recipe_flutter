@@ -1,8 +1,6 @@
-import 'package:env/env.dart';
 import 'package:flutter/material.dart';
-import 'package:fuji_film_recipe/app/di/di.dart';
 import 'package:fuji_film_recipe/l10n/l10n.dart';
-import 'package:shared/shared.dart';
+import 'package:fuji_film_recipe/login/login.dart';
 
 class AppView extends StatelessWidget {
   const AppView({super.key});
@@ -19,9 +17,7 @@ class AppView extends StatelessWidget {
       ),
       localizationsDelegates: AppLocalizations.localizationsDelegates,
       supportedLocales: AppLocalizations.supportedLocales,
-      home: SafeArea(child: Scaffold(body: Text('initial commit'),
-      ),
-      ),
+      home: const LoginPage(),
     );
   }
 }
